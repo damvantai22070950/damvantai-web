@@ -10,7 +10,7 @@
         $age = 20;
         $course = array("Java","C","PHP");
         echo "Name: " . $name . ",age: ".$age .
-            "<br/>3rd course is: " . $courses[2];
+            "<br/>3rd course is: " . $course[2];
         ?>
     </body>
 </html>
